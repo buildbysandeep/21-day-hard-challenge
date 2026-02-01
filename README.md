@@ -14,14 +14,14 @@ A daily public log of work. One folder per day. No zero days.
 
 ## Folder Structure
 
-/YYYY-MM-DD/
+/DD-MM-YYYY/
 
 - README.md
 - Code / Notes / Experiments
 
 ## Start Date
 
-2026-02-01
+01-02-2026
 
 ## Status
 
