@@ -20,4 +20,10 @@ Endurance run + challenge initialization.
 
 ## Notes
 
-Baseline run. No tapering. No prior warm-up optimization.
+Baseline run.
+
+## Proof
+
+[Instagram video](https://www.instagram.com/reel/DUOIAUYkjuQ/)
+
+![Run proof thumbnail](./run-proof.jpeg)
