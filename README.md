@@ -1,28 +1,24 @@
-# 21 Day Hard Challange
+## Status Update
 
-## What this is
+Challenge discontinued mid-cycle.
 
-A daily public log of work. One folder per day. No zero days.
+On Day 14:
 
-## Rules
+- Business proposal was rejected.
+- 14 km target run on 14 February was not completed.
 
-- One commit per day minimum
-- One dated folder per day
-- No backfilling
-- No deleting failed days
-- Output > motivation
+Training consistency dropped following these events.
 
-## Folder Structure
+## Decision
 
-/DD-MM-YYYY/
+Shifting to internal correction mode:
 
-- README.md
-- Code / Notes / Experiments
+- Physical health stabilization
+- English improvement
+- Communication improvement
 
-## Start Date
-
-01-02-2026
+Public daily logging paused.
 
 ## Status
 
-Active
+Inactive
